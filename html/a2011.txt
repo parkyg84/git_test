@@ -1,12 +1,10 @@
 test
 est
 sdfsdf
-<<<<<<< HEAD
 aaaaaaaa
-=======
 asdad
 asdaddad
 asdadsdasdq
 q2eqweqweqc
 asdadads
->>>>>>> 6d4373419f4a76f79251c3502aff19d682212878
+
